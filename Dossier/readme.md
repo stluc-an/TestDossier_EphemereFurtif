@@ -10,8 +10,8 @@ par Yannick Antoine
 
 3. [Synopsis](03-synopsis.md)
 
-4. [Positionnement artistique](04-positionnement.md_)
+4. [Positionnement artistique](04-positionnement.md)
 
-5. [Techniques, logiciels, médias, et matériaux utilisés](05-technique.md_)
+5. [Techniques, logiciels, médias, et matériaux utilisés](05-technique.md)
 
-6. [Calendrier de production](06-calendrier.md_)
+6. [Calendrier de production](06-calendrier.md)
