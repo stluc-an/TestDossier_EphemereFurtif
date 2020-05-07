@@ -4,26 +4,18 @@
 
 Un petit résumé du projet ici parce que c'est la première page que les gens vont voir en tombant sur votre repository. Pour plus de détails, voir le [Dossier de production](Dossier/readme.md).
 
-## Sommaire
+## Contenu
+### [Dossier de production](Dossier/readme.md)
+Vous pouriez aussi éventuellement travailler avec des fichiers différents par chapîtres. Ça a ses avantages et ses inconvénients, c'est surtout une question de préférence personnelle. [Exemple ici](https://github.com/stluc-an/TestDossier_EphemereFurtif/tree/dossier-multifichier).
 
-- [Tâches](tasks.md)
-- [Images & éditeurs markdown](markdown-editors.md) 👈 ça c'est juste pour vous, pas besoin dans votre dossier ;)
+### [Liste des tâches](tasks.md)
+Pour le suivi au minimum hebdomadaire, au mieux quotidien. Vous pourriez aussi externaliser ça sur un Kaban genre Trello, si vous préférez.
 
-## [Dossier de production](Dossier/readme.md)
+## [Images & éditeurs markdown](markdown-editors.md) 
+Ça c'est juste pour vous, pas besoin dans votre dossier ;)
+Faut un peu chipoter pour insérer des images correctement dans vos documents, voilà comment faire dans deux éditeurs Markdown : Mark Text et Zettlr.
 
-1. [Biographie](Dossier/01-biographie.md)
-
-2. [Note d'intention](Dossier/02-intention.md)
-
-3. [Synopsis](Dossier/03-synopsis.md)
-
-4. [Positionnement artistique](Dossier/04-positionnement.md)
-
-5. [Techniques, logiciels, médias, et matériaux utilisés](Dossier/05-technique.md)
-
-6. [État d'avancement](Dossier/06-avancement.md)
-
-7. [Calendrier de production](Dossier/07-calendrier.md)
-
-Vous pouriez aussi éventuellement travailler avec des fichiers différents par chapîtres. Ça a ses avantages et ses inconvénients, c'est surtout une question de préférences personnelles. [Exemple ici](https://github.com/stluc-an/TestDossier_EphemereFurtif/tree/dossier-multifichier).
+### Sources
+Prévoyez un dossier séparé pour les sources de votre projet, avec un sous-dossier différent par langage/programme/environement. 
+Utilisez les fichiers .gitignore (il y a des exemples dans les sous-dossiers que j'ai créé) pour éviter d'uploader des fichiers inutiles sur Github. Le fichier .gitignore placé dans un dossier indique à Git quels fichiers ignorer dans le dossier en cours et ses sous-dossiers.
 
