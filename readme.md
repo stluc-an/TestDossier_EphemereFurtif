@@ -25,5 +25,5 @@ Un petit résumé du projet ici parce que c'est la première page que les gens v
 
 7. [Calendrier de production](Dossier/07-calendrier.md)
 
-Je l'ai fait en plusieurs fichiers séparés un peu par habitude personelle, mais peut-être que c'est un peu chiant pour vous et pour le lecteur sur Github.
-Rien ne vous empêche de faire un seul fichier avec tout votre dossier :) 
+Vous pouriez aussi éventuellement travailler avec des fichiers différents par chapîtres. Ça a ses avantages et ses inconvénients, c'est surtout une question de préférences personnelles. [Exemple ici](https://github.com/stluc-an/TestDossier_EphemereFurtif/tree/dossier-multifichier).
+
