@@ -2,4 +2,4 @@
 
 Nam imperdiet neque dui, ac fringilla ex scelerisque et. Integer consectetur diam urna, sit amet blandit nisl rutrum eu. Suspendisse mollis quam ut dolor porta tempus. Sed ac ipsum varius, faucibus diam in, convallis purus.
 
-[Biographie](01_biographie.md) - [Intention](02_intention.md_) - [Synopsis](03_synopsis.md) - [Positionnement](04_positionnement.md_) - [Techniques](05_technique.md_) - [Calendrier](06_calendrier.md_)
+[Biographie](01-biographie.md) - [Intention](02-intention.md) - [Synopsis](03-synopsis.md) - [Positionnement](04-positionnement.md) - [Techniques](05-technique.md) - [Calendrier](06-calendrier.md)

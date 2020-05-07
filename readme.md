@@ -11,17 +11,17 @@ Un petit résumé du projet ici parce que c'est la première page que les gens v
 
 ## [Dossier de production](Dossier/readme.md)
 
-1. [Biographie](Dossier/01_biographie.md)
+1. [Biographie](Dossier/01-biographie.md)
 
-2. [Note d'intention](Dossier/02_intention.md_)
+2. [Note d'intention](Dossier/02-intention.md)
 
-3. [Synopsis](Dossier/03_synopsis.md)
+3. [Synopsis](Dossier/03-synopsis.md)
 
-4. [Positionnement artistique](Dossier/04_positionnement.md_)
+4. [Positionnement artistique](Dossier/04-positionnement.md)
 
-5. [Techniques, logiciels, médias, et matériaux utilisés](Dossier/05_technique.md_)
+5. [Techniques, logiciels, médias, et matériaux utilisés](Dossier/05-technique.md)
 
-6. [Calendrier de production](Dossier/06_calendrier.md_)
+6. [Calendrier de production](Dossier/06-calendrier.md)
 
 Je l'ai fait en plusieurs fichiers séparés un peu par habitude, mais peut-être que c'est un peu chiant pour vous et pour le lecteur. Rien ne vous empêche de faire un seul fichier avec tout votre dossier :) 
 
