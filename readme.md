@@ -21,7 +21,7 @@ Un petit résumé du projet ici parce que c'est la première page que les gens v
 
 5. [Techniques, logiciels, médias, et matériaux utilisés](Dossier/05-technique.md)
 
-6. [État d'avancement](Dossier/06-avancement)
+6. [État d'avancement](Dossier/06-avancement.md)
 
 7. [Calendrier de production](Dossier/07-calendrier.md)
 
