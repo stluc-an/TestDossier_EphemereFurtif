@@ -11,7 +11,7 @@ Vous pouriez aussi éventuellement travailler avec des fichiers différents par 
 ### [Liste des tâches](tasks.md)
 Pour le suivi au minimum hebdomadaire, au mieux quotidien. Vous pourriez aussi externaliser ça sur un Kaban genre Trello, si vous préférez.
 
-## [Images & éditeurs markdown](markdown-editors.md) 
+### [Images & éditeurs markdown](markdown-editors.md) 
 Ça c'est juste pour vous, pas besoin dans votre dossier ;)
 Faut un peu chipoter pour insérer des images correctement dans vos documents, voilà comment faire dans deux éditeurs Markdown : Mark Text et Zettlr.
 
