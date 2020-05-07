@@ -21,8 +21,9 @@ Un petit résumé du projet ici parce que c'est la première page que les gens v
 
 5. [Techniques, logiciels, médias, et matériaux utilisés](Dossier/05-technique.md)
 
-6. [Calendrier de production](Dossier/06-calendrier.md)
+6. [État d'avancement](Dossier/06-avancement)
 
-Je l'ai fait en plusieurs fichiers séparés un peu par habitude, mais peut-être que c'est un peu chiant pour vous et pour le lecteur. Rien ne vous empêche de faire un seul fichier avec tout votre dossier :) 
+7. [Calendrier de production](Dossier/07-calendrier.md)
 
-
+Je l'ai fait en plusieurs fichiers séparés un peu par habitude personelle, mais peut-être que c'est un peu chiant pour vous et pour le lecteur sur Github.
+Rien ne vous empêche de faire un seul fichier avec tout votre dossier :) 

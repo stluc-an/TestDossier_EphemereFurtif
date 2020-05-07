@@ -14,4 +14,6 @@ par Yannick Antoine
 
 5. [Techniques, logiciels, médias, et matériaux utilisés](05-technique.md)
 
-6. [Calendrier de production](06-calendrier.md)
+6. [État d'avancement](06-avancement)
+
+7. [Calendrier de production](07-calendrier.md)
