@@ -14,9 +14,7 @@ Pour le suivi au minimum hebdomadaire, au mieux quotidien. Vous pourriez aussi e
 ## Bonus
 
 ### [Images & éditeurs markdown](markdown-editors.md) 
-Faut un peu chipoter pour insérer des images correctement dans vos documents, voilà comment faire dans deux éditeurs Markdown : Mark Text et Zettlr.
-Si je trouve d'autres éditeurs, je mettrai à jour et je vous dirai quoi!
-(Brackets et Sublime ont manifestement des plugins Markdown)
+Faut un peu chipoter pour insérer des images correctement dans vos documents, voilà comment faire dans deux éditeurs Markdown (Mark Text et Zettlr) et avec Brackets (+plugins).
 
 ### Sources
 - Prévoyez un dossier séparé pour les sources de votre projet, avec un sous-dossier différent par langage/programme/environement. 
