@@ -21,6 +21,8 @@ Blabla
 C'est un peu compliqué alors j'ai fait un schéma
 ![](img/tech_graphique.jpg)
 
+Comment j'ai fait pour insérer une image? [C'est très simple!](https://github.com/stluc-an/Ephemere-furtif/blob/master/markdown-images.md)
+
 ## État d'avancement
 Suspendisse blandit interdum nulla eu tincidunt. Sed egestas sodales nisl quis fermentum. Cras posuere, nunc sit amet congue sodales, tellus mauris accumsan lectus, vel molestie sem magna eget turpis. Nam ut metus lacinia, imperdiet nisl eget, luctus mi. Vestibulum consequat, dui at convallis lobortis, justo leo bibendum arcu, ut placerat eros nisi quis lacus. 
 Sed aliquet, sem sit amet consectetur placerat, nibh enim bibendum sapien, id pharetra augue ipsum id metus. Fusce posuere orci ac malesuada accumsan. 
