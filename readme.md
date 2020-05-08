@@ -11,12 +11,7 @@ Vous pouriez aussi éventuellement travailler avec des fichiers différents par 
 ### [Liste des tâches](tasks.md) (tasks.md)
 Pour le suivi au minimum hebdomadaire, au mieux quotidien. Vous pourriez aussi externaliser ça sur un Kaban genre [Trello](https://trello.com/), si vous préférez.
 
-## Bonus
-
-### [Images & éditeurs markdown](markdown-editors.md) 
-Faut un peu chipoter pour insérer des images correctement dans vos documents, voilà comment faire dans deux éditeurs Markdown (Mark Text et Zettlr) et avec Brackets (+plugins).
-
-### Sources
+### [Sources](Sources)
 - Prévoyez un dossier séparé pour les sources de votre projet, avec un sous-dossier différent par langage/programme/environement. 
 - Utilisez les fichiers .gitignore (il y a des exemples dans les sous-dossiers que j'ai créé) pour éviter d'uploader des fichiers inutiles sur Github. Le fichier .gitignore placé dans un dossier indique à Git quels fichiers ignorer dans le dossier en cours et ses sous-dossiers.
 
