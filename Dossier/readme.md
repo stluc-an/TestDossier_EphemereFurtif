@@ -15,7 +15,9 @@ Aenean suscipit elementum tincidunt. Praesent mattis posuere dolor, sed semper l
 Donec venenatis sit amet diam non placerat. Suspendisse tempor venenatis bibendum. Sed nec tortor volutpat, rutrum justo ut, congue metus. Nullam porttitor nec tortor eget ultricies. In interdum dictum nisl, ut viverra erat. Ut massa lectus, posuere ac mollis eu, rhoncus vel mi. Praesent sed magna rhoncus, pulvinar lectus sed, lobortis elit.
 
 ## Positionnement artistique
-Blabla
+Blabla.
+
+Ici je devrais insérer des images qui permettent de situer mon travail et mes références.
 
 ## Matériel, des logiciels, des médias, et des techniques utilisés
 C'est un peu compliqué alors j'ai fait un schéma
