@@ -19,6 +19,8 @@ Blabla.
 
 Ici je devrais insérer des images qui permettent de situer mon travail et mes références.
 
+Si vous avez une galerie de recherches, vous pouvez soit les insérer directement, ou faire un lien vers une galerie extérieure si ça se justifie.
+
 ## Matériel, des logiciels, des médias, et des techniques utilisés
 C'est un peu compliqué alors j'ai fait un schéma
 ![](img/tech_graphique.jpg)
@@ -26,9 +28,19 @@ C'est un peu compliqué alors j'ai fait un schéma
 Comment j'ai fait pour insérer une image? [C'est très simple!](https://github.com/stluc-an/Ephemere-furtif/blob/master/markdown-images.md)
 
 ## État d'avancement
+C'est le bon endroit pour montrer tout ce qui existe (à part peut-être les aspects plus techniques montrés ci-dessus)
+
+### Liens externes
+
+- Téléchargez la démo sur [itch.io](https://itch.io/) / [github](https://github.com/stluc-an/TestDossier_EphemereFurtif/releases)
+- Documentation vidéo: [démo complète](https://vimeo.com/) & [making of](https://vimeo.com/)
+- Galeries d'images: [captures d'écran](https://flickr.com/photos/r00s/albums/72157629796898687), [le dispositif](https://imgur.com/gallery/8zRMIOw)
+
 Suspendisse blandit interdum nulla eu tincidunt. Sed egestas sodales nisl quis fermentum. Cras posuere, nunc sit amet congue sodales, tellus mauris accumsan lectus, vel molestie sem magna eget turpis. Nam ut metus lacinia, imperdiet nisl eget, luctus mi. Vestibulum consequat, dui at convallis lobortis, justo leo bibendum arcu, ut placerat eros nisi quis lacus. 
 Sed aliquet, sem sit amet consectetur placerat, nibh enim bibendum sapien, id pharetra augue ipsum id metus. Fusce posuere orci ac malesuada accumsan. 
 Ut dictum suscipit ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra, turpis vel rutrum mollis, massa purus gravida est, quis pulvinar libero purus a lorem. Donec dolor sapien, pellentesque luctus purus id, vulputate volutpat sem. 
 Donec ut condimentum tortor. Curabitur imperdiet eget felis ac scelerisque.
 
 ## Calendrier de production
+
+Qui peu aller au-delà de la cotation de juin. Imaginez le temps que ça prendrait de réaliser le projet dans son ambitieuse entierté!
