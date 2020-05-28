@@ -19,60 +19,37 @@ void setup() {
 
 void loop() {
  
- long total1 =  cs_4_2.capacitiveSensor(30);  //sensor numero 1
+ long total0 =  cs_4_2.capacitiveSensor(30);  //sensor numero 0
 
- long total2 =  cs_4_3.capacitiveSensor(30);  //sensor numero 2
+ long total1 =  cs_4_3.capacitiveSensor(30);  //sensor numero 1
 
- long total3 =  cs_4_5.capacitiveSensor(30);  //sensor numero 3
+ long total2 =  cs_4_5.capacitiveSensor(30);  //sensor numero 2
 
- long total4 =  cs_4_6.capacitiveSensor(30);   //sensor numero 4
+ long total3 =  cs_4_6.capacitiveSensor(30);   //sensor numero 3
  
 
 
 
- if (total1 > 500)                            // Donc on touche le sensor numero 1
+ if (total0 > 500)                            // Donc on touche le sensor numero 1
   {
-    Serial.write(1);            // le sons numero 1 ce declenche
+    Serial.write(0);            // le sons numero 1 se declenche
   } 
-  else
+  else if (total1 > 500)                            // Donc on touche le sensor numero 2
   {
-   Serial.write(0);               // Autrement, pas de sons
-  }
-
+    Serial.write(1);                           // le sons numero 2 se declenche
+  } 
+  else if (total2 > 500)                            // Donc on touche le sensor numero 3
+  {
+    Serial.write(2);                          // le sons numero 3 se declenche
+  } 
+  else if (total3 > 500)                            // Donc on touche le sensor numero 4
+  {
+    Serial.write(3);                          // le sons numero 4 se declenche
+  } 
   
-
-  if (total2 > 500)                            // Donc on touche le sensor numero 2
-  {
-    Serial.write(1);                           // le sons numero 2 ce declenche
-  } 
-  else
-  {
-   Serial.write(0);              
+  else {
+   Serial.write(-1);               // Autrement, pas de sons
   }
-  
-
-
-  if (total3 > 500)                            // Donc on touche le sensor numero 3
-  {
-    Serial.write(1);                          // le sons numero 3 ce declenche
-  } 
-  else
-  {
-   Serial.write(0);               
-  }
-
-
-
-  if (total4 > 500)                            // Donc on touche le sensor numero 4
-  {
-    Serial.write(1);                          // le sons numero 4 ce declenche
-  } 
-  else
-  {
-   Serial.write(0);              
-  }
-
-
  
  
   delay(33);
